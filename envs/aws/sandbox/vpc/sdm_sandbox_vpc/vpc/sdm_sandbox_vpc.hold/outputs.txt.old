@@ -1,0 +1,39 @@
+Outputs:
+
+database_subnets = [
+    subnet-fd6c74a6,
+    subnet-4e15cb28,
+    subnet-a1ef40e9
+]
+elasticache_subnets = [
+    subnet-3f687064,
+    subnet-6116c807,
+    subnet-4c16ba04
+]
+id_bast = [
+    i-028d7767305b73389
+]
+instance_id_bastion = i-028d7767305b73389
+instance_public_dns_bastion =
+nat_public_ips = [
+    34.242.156.20,
+    52.214.145.61,
+    34.248.6.97
+]
+private_subnets = [
+    subnet-196c7442,
+    subnet-ea10ce8c,
+    subnet-00ee4148
+]
+public_dns_bastion = [
+
+]
+public_ip_bastion = [
+    34.242.79.201
+]
+public_subnets = [
+    subnet-9d7169c6,
+    subnet-0c14ca6a,
+    subnet-7e15b936
+]
+vpc_id = vpc-4b44d02d
